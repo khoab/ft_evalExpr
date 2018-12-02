@@ -30,10 +30,10 @@ subject states that **all input must be valid**, so no error checking is
 performed.
 
 A valid expression:
-* must only contain the operators `+`, `-`, `*`, `/`, and `%`
-* must only have integer values
-* can contain parentheses, but each group must be properly closed
-* can contain spaces
+* Must only contain the operators `+`, `-`, `*`, `/`, and `%`
+* Must only have integer values
+* Can contain parentheses, but each group must be properly closed
+* Can contain spaces
 
 Since we are doing whole number arithmetic, divisions are euclidian keeping
 only the quotient, while the remainder can be obtained with a modulo operation.
