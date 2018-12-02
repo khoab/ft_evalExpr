@@ -6,7 +6,7 @@ It main mission is to solve basic mathematical expressions. The evaluator runs o
 recommend you read that article as it helped me tons while making this.
 This was an assignment, so some things are not handled on purpose (see below).
 
-##How long did it take me to finished?
+## How long did it take me to finished?
 
 _ 3 days. (At that moment, I was too new to C and not really good at coding. My school avarage time to finish is 1 week).
 
